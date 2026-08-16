@@ -17,7 +17,7 @@ RUN apt-get update \
 		lsb-release \
 		screenfetch \	
 		fastfetch \
-		exa \
+		eza \
 		nano \
 	&& apt-get autoclean \
 	&& apt-get autoremove \
