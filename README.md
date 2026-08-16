@@ -1,7 +1,7 @@
 ## A Debian Trixie  Docker Image with x-server
 A Debian Trixie Docker Image with x-server, Openbox, VNC server, SSH server and other package installed
 ```
-pwgen, curl, iputils-ping, lsb-release, screenfetch, neofetch, exa, nano, xterm
+pwgen, curl, iputils-ping, lsb-release, screenfetch, fastfetch, exa, nano, xterm
 ```
 
 #### Build Image From Dockerfile and Run from locally build
